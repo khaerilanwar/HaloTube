@@ -1,0 +1,5 @@
+# Mengabaikan perubahan pada settings vscode
+.vscode/
+
+# Mengabaikan folder virtual environment python local
+env/
